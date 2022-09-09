@@ -1,0 +1,127 @@
+body{
+    background-color: #17181c;
+    align-items: center;
+    justify-content: center;
+}
+h2{
+    color: #FFFFFF;
+    text-shadow: 3px 3px 1px rgb(0,0,0);
+    text-align: center;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+h3{
+    color: rgb(0, 0, 0);
+    text-shadow: 3px 3px 2px #D3D3D3;
+    text-align: center;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+form{
+    text-align: center;
+}
+/* .container{
+    display:flex;
+    flex-direction: column;
+} */
+#item-1{
+    border: 2px solid black;
+    padding: 20px;
+    margin: 22px;
+    border-radius: 26px;
+    background-color: #FFFFFF;
+    box-shadow: 25px;
+    box-shadow: -2px 3px;
+}
+#item-2{
+    border: 2px solid black;
+    padding: 20px;
+    margin: 22px;
+    border-radius: 26px;
+    background-color: #FFFFFF;
+    box-shadow: -2px 3px;
+}
+#item-3{
+    border: 2px solid black;
+    padding: 20px;
+    margin: 22px;
+    border-radius: 26px;
+    background-color:#FFFFFF;
+    box-shadow: -2px 3px;
+}
+#item-4{
+    border: 2px solid black;
+    padding: 20px;
+    margin: 22px;
+    border-radius: 26px;
+    background-color:#FFFFFF;
+    box-shadow: -2px 3px;
+}
+#item-5{
+    border: 2px solid black;
+    padding: 20px;
+    margin: 22px;
+    border-radius: 26px;
+    background-color: #FFFFFF;
+    box-shadow: -2px 3px;
+} 
+.calc{
+    width: 150px;
+    position: relative;
+    left: 32vw;
+    background-color: #FA4753;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 15px;
+    padding: 18px;
+    border-radius: 20px;
+}
+
+footer{
+     background-color: #D3D3D3;
+     color: white;
+     text-align: center;
+     border-radius: 30%;
+ }
+ #btn{
+    color: white;
+    display: block;
+    padding: 30px 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
+ .style1{
+    width: 25vw;
+    background-color: #414040;
+ }
+ .style3{
+    width: 25vw;
+    background-color: #414040;
+ }
+ .style4{
+    width: 25vw;
+    background-color: #414040;
+ }
+ @media screen  and (min-width : 912px){
+     .input{
+       padding: 10px 0px 0px 70px;
+     } 
+    .container{
+         width: 50vw;
+         position: relative;
+         left: 25vw;
+    }
+    .calc{
+        position: relative;
+        left:49vw;
+    }
+    h2{
+
+        position:relative;
+        left: 80px;
+    }
+}
+
+        padding-left: 8.6rem;
+    }
+
+ }
+
